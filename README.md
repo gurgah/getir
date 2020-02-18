@@ -4,7 +4,7 @@
 1. Clone https://github.com/gurgah/getir
 2. Change into the code folder.
 3. Install node if you don't have.
-4. Run the command `node start`
+4. Run the commands `npm install` and then `node start`
 5. You can see it in the http://localhost:8080
 6. Sample POST is below:
 
