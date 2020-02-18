@@ -53,7 +53,7 @@
 
 ## AWS Deployment
 
-You can test the API here : [POST] `http://ec2-18-220-72-176.us-east-2.compute.amazonaws.com:8080/query`
+You can test the API here : [POST] http://ec2-18-220-72-176.us-east-2.compute.amazonaws.com:8080/query
 
 ## Error Codes
 
