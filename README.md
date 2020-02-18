@@ -60,4 +60,4 @@ You can test the API here : [POST] `http://ec2-18-220-72-176.us-east-2.compute.a
 * Security layer can be added for the requests.
 * Username and passwords should not be pushed to the repo. Environment variables for secrets can be defined.
 * Load balancer can be added for scaling and high availability purposes.
-
+* Tests can be enhanced.
