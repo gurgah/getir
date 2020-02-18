@@ -55,6 +55,11 @@
 
 You can test the API here : [POST] `http://ec2-18-220-72-176.us-east-2.compute.amazonaws.com:8080/query`
 
+## Error Codes
+
+* Code 1: Error from database.
+* Code 2: User input error.
+
 ## Future Work
 
 * Security layer can be added for the requests.
